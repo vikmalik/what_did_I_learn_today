@@ -4,7 +4,7 @@ A small collection of practical notes from experimenting with local AI tools: wh
 
 ## Notes
 
-- [Running Apple Foundation Models locally with Apfel and Open WebUI](lab101 - Apple-foundation-model-apfel-openwebui/Apple-foundation-model-apfel-openwebui.md)
+- [Running Apple Foundation Models locally with Apfel and Open WebUI](./lab101 - Apple-foundation-model-apfel-openwebui/Apple-foundation-model-apfel-openwebui.md)
 
 
 ## License
